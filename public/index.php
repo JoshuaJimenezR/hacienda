@@ -23,19 +23,17 @@
 // Cambiamos zona horaria a Costa Rica
 date_default_timezone_set("America/Costa_Rica");
 
-if (file_exists("settings.php"))
+if (file_exists("../config/settings.php")) {
     include_once("../config/settings.php");
-else
-{
+}else {
     echo "No se ha encontrado el archivo de configuración. Ve a la carpeta \"www\", renombra el archivo \"settings.php.dist\" a \"settings.php\" y ajusta los valores de configuración.";
     exit;
 }
 
 $corePath = $config['modules']['coreInstall'];
-if (file_exists($corePath."core/boot.php"))
-    include_once($corePath."core/boot.php");
-else
-{
+if (file_exists($corePath."core/boot.php")) {
+    include_once($corePath . "core/boot.php");
+}else {
     echo "No se ha encontrado la carpeta de \"api\", por favor verifica la configuración \$config['modules']['coreInstall'] en \"settings.php\".";
     exit;
 }
