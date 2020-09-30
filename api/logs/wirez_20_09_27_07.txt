@@ -1,0 +1,1169 @@
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[i] 20-09-27 07:09:29 @ Cala was booted...
+
+[d] 20-09-27 07:09:29 @ Loading module: db
+
+[d] 20-09-27 07:09:29 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:29 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[d] 20-09-27 07:09:29 @ Conneted to Db
+
+[d] 20-09-27 07:09:29 @ Loading module: users
+
+[d] 20-09-27 07:09:29 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:29 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[d] 20-09-27 07:09:29 @ Loading user
+
+[d] 20-09-27 07:09:29 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:29 @ Unable to locate user
+
+[d] 20-09-27 07:09:29 @ Loading module: crypto
+
+[d] 20-09-27 07:09:29 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:29 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[d] 20-09-27 07:09:29 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:29 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[d] 20-09-27 07:09:29 @ Loading user
+
+[d] 20-09-27 07:09:29 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:29 @ Unable to locate user
+
+[d] 20-09-27 07:09:29 @ Function found
+
+[d] 20-09-27 07:09:29 @ Looking for path: users_log_me_in
+
+[d] 20-09-27 07:09:29 @ Found path: users_log_me_in
+
+[d] 20-09-27 07:09:29 @ Loading in path: ./api/modules/users/login.php
+
+[d] 20-09-27 07:09:29 @ Including file: ./api/modules/users/login.php
+
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[d] 20-09-27 07:09:29 @ Loading user
+
+[d] 20-09-27 07:09:29 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:29 @ Unable to locate user
+
+[d] 20-09-27 07:09:29 @ Found function: users_logMeIn
+
+[d] 20-09-27 07:09:29 @ Log in this person
+
+[d] 20-09-27 07:09:29 @ username based login
+
+[d] 20-09-27 07:09:29 @ Loading user
+
+[d] 20-09-27 07:09:29 @ SELECT *
+    FROM users
+     WHERE userName = 'zotaApp'
+
+[d] 20-09-27 07:09:29 @ Loading in path: ./api/modules/crypto/crypto.php
+
+[d] 20-09-27 07:09:29 @ Including file: ./api/modules/crypto/crypto.php
+
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[d] 20-09-27 07:09:29 @ Able to login
+
+[d] 20-09-27 07:09:29 @ delete from sessions where idUser='1'
+
+[d] 20-09-27 07:09:29 @ Loading in path: ./api/modules/crypto/crypto.php
+
+[d] 20-09-27 07:09:29 @ Including file: ./api/modules/crypto/crypto.php
+
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[d] 20-09-27 07:09:29 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', 'MDdxbER3NUppMHhpZDRhVExYbnVQZz09OjqkZZU838B8J+5YAR+anBWS', '127.0.0.1', '1601258069')
+
+[d] 20-09-27 07:09:29 @ Finished! Memory used: Mb0.706048<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[i] 20-09-27 07:09:29 @ Cala was booted...
+
+[d] 20-09-27 07:09:29 @ Loading module: db
+
+[d] 20-09-27 07:09:29 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:29 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[d] 20-09-27 07:09:29 @ Conneted to Db
+
+[d] 20-09-27 07:09:29 @ Loading module: users
+
+[d] 20-09-27 07:09:29 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:29 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[d] 20-09-27 07:09:29 @ Loading user
+
+[d] 20-09-27 07:09:29 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:29 @ Unable to locate user
+
+[d] 20-09-27 07:09:29 @ Loading module: crypto
+
+[d] 20-09-27 07:09:29 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:29 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[d] 20-09-27 07:09:29 @ Loading in path: ./api/contrib/token/module.php
+
+[d] 20-09-27 07:09:29 @ Including file: ./api/contrib/token/module.php
+
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[d] 20-09-27 07:09:29 @ Function found
+
+[d] 20-09-27 07:09:29 @ Looking for path: gettoken
+
+[d] 20-09-27 07:09:29 @ Found path: gettoken
+
+[d] 20-09-27 07:09:29 @ Missing param: client_secret
+
+[d] 20-09-27 07:09:29 @ Using default
+
+[d] 20-09-27 07:09:29 @ Loading in path: ./api/contrib/token/mhToken.php
+
+[d] 20-09-27 07:09:29 @ Including file: ./api/contrib/token/mhToken.php
+
+[d] 20-09-27 07:09:29 @ Module was booted too
+
+[d] 20-09-27 07:09:29 @ Found function: token
+
+[d] 20-09-27 07:09:29 @ JSON: client_id=api-stag&client_secret=0&grant_type=password&username=cpf-01-0974-0757%40stag.comprobanteselectronicos.go.cr&password=%3FX%7D2%7C%5B%2451%3Ej%40k%2A40V%5BB%40
+
+[d] 20-09-27 07:09:29 @ Finished! Memory used: Mb0.537456<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[i] 20-09-27 07:09:39 @ Cala was booted...
+
+[d] 20-09-27 07:09:39 @ Loading module: db
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Conneted to Db
+
+[d] 20-09-27 07:09:39 @ Loading module: users
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading user
+
+[d] 20-09-27 07:09:39 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:39 @ Unable to locate user
+
+[d] 20-09-27 07:09:39 @ Loading module: crypto
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading user
+
+[d] 20-09-27 07:09:39 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:39 @ Unable to locate user
+
+[d] 20-09-27 07:09:39 @ Function found
+
+[d] 20-09-27 07:09:39 @ Looking for path: users_log_me_in
+
+[d] 20-09-27 07:09:39 @ Found path: users_log_me_in
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/users/login.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/users/login.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading user
+
+[d] 20-09-27 07:09:39 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:39 @ Unable to locate user
+
+[d] 20-09-27 07:09:39 @ Found function: users_logMeIn
+
+[d] 20-09-27 07:09:39 @ Log in this person
+
+[d] 20-09-27 07:09:39 @ username based login
+
+[d] 20-09-27 07:09:39 @ Loading user
+
+[d] 20-09-27 07:09:39 @ SELECT *
+    FROM users
+     WHERE userName = 'zotaApp'
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/crypto/crypto.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/crypto/crypto.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Able to login
+
+[d] 20-09-27 07:09:39 @ delete from sessions where idUser='1'
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/crypto/crypto.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/crypto/crypto.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', 'SDFwVTFIeUd4S3BXY1RSWnpZeUpkUT09OjqNC3+R0pp0OZH4Rflizz0y', '127.0.0.1', '1601258079')
+
+[d] 20-09-27 07:09:39 @ Finished! Memory used: Mb0.466808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[i] 20-09-27 07:09:39 @ Cala was booted...
+
+[d] 20-09-27 07:09:39 @ Loading module: db
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Conneted to Db
+
+[d] 20-09-27 07:09:39 @ Loading module: users
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading user
+
+[d] 20-09-27 07:09:39 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:39 @ Unable to locate user
+
+[d] 20-09-27 07:09:39 @ Loading module: crypto
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/contrib/token/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/contrib/token/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Function found
+
+[d] 20-09-27 07:09:39 @ Looking for path: gettoken
+
+[d] 20-09-27 07:09:39 @ Found path: gettoken
+
+[d] 20-09-27 07:09:39 @ Missing param: client_secret
+
+[d] 20-09-27 07:09:39 @ Using default
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/contrib/token/mhToken.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/contrib/token/mhToken.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Found function: token
+
+[d] 20-09-27 07:09:39 @ JSON: client_id=api-stag&client_secret=0&grant_type=password&username=cpf-01-0974-0757%40stag.comprobanteselectronicos.go.cr&password=%3FX%7D2%7C%5B%2451%3Ej%40k%2A40V%5BB%40
+
+[d] 20-09-27 07:09:39 @ Finished! Memory used: Mb0.460912<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[i] 20-09-27 07:09:39 @ Cala was booted...
+
+[d] 20-09-27 07:09:39 @ Loading module: db
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Conneted to Db
+
+[d] 20-09-27 07:09:39 @ Loading module: users
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading user
+
+[d] 20-09-27 07:09:39 @ SELECT *
+    FROM users
+     WHERE userName = 'zotaApp'
+
+[d] 20-09-27 07:09:39 @ Loading module: crypto
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/contrib/fileUploader/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/contrib/fileUploader/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Function found
+
+[d] 20-09-27 07:09:39 @ Looking for path: subir_certif
+
+[d] 20-09-27 07:09:39 @ Found path: subir_certif
+
+[d] 20-09-27 07:09:39 @ Confirm that the user is logged in
+
+[d] 20-09-27 07:09:39 @ Confirm the session for this user
+
+[d] 20-09-27 07:09:39 @ SELECT *
+        FROM sessions
+        WHERE sessionKey = 'SDFwVTFIeUd4S3BXY1RSWnpZeUpkUT09OjqNC3+R0pp0OZH4Rflizz0y'
+        AND ip = '127.0.0.1'
+        AND idUser = '1'
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/contrib/fileUploader/uploader.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/contrib/fileUploader/uploader.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Found function: uploadCert
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/files/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/files/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading tool: ./api/tools/ImageResize.php
+
+[d] 20-09-27 07:09:39 @ Uploading a file
+
+[d] 20-09-27 07:09:39 @ Using default max upload size
+
+[d] 20-09-27 07:09:39 @ Saving file to: ./api/files/1/hacienda/
+
+[d] 20-09-27 07:09:39 @ Uploading file to: ./api/files/1/hacienda/010974075710-test-mike.p12
+
+[d] 20-09-27 07:09:39 @ Some extention restrictions apply
+
+[d] 20-09-27 07:09:39 @ INSERT INTO files (md5, name, timestamp, size, idUser, downloadCode, fileType, type)
+        VALUES('5ec240155ee36851f28b5bc848590ada', '010974075710-test-mike.p12', '1601258079', '6715', '1', '7466cf867df583d429b58ff44f3edfa4', '', 'hacienda')
+
+[d] 20-09-27 07:09:39 @ SELECT idFile FROM files WHERE downloadCode = '7466cf867df583d429b58ff44f3edfa4'
+
+[d] 20-09-27 07:09:39 @ UPDATE sessions SET lastAccess = '1601258079' WHERE sessionKey = 'SDFwVTFIeUd4S3BXY1RSWnpZeUpkUT09OjqNC3+R0pp0OZH4Rflizz0y'
+
+[d] 20-09-27 07:09:39 @ UPDATE users SET lastAccess = '1601258079' WHERE idUser = '1'
+
+[d] 20-09-27 07:09:39 @ Finished! Memory used: Mb0.652704<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[i] 20-09-27 07:09:39 @ Cala was booted...
+
+[d] 20-09-27 07:09:39 @ Loading module: db
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Conneted to Db
+
+[d] 20-09-27 07:09:39 @ Loading module: users
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading user
+
+[d] 20-09-27 07:09:39 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:39 @ Unable to locate user
+
+[d] 20-09-27 07:09:39 @ Loading module: crypto
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/contrib/clave/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/contrib/clave/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Function found
+
+[d] 20-09-27 07:09:39 @ Looking for path: clave
+
+[d] 20-09-27 07:09:39 @ Found path: clave
+
+[d] 20-09-27 07:09:39 @ Missing param: terminal
+
+[d] 20-09-27 07:09:39 @ Using default
+
+[d] 20-09-27 07:09:39 @ Missing param: sucursal
+
+[d] 20-09-27 07:09:39 @ Using default
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/contrib/clave/clave.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/contrib/clave/clave.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Found function: getClave
+
+[d] 20-09-27 07:09:39 @ FE
+
+[d] 20-09-27 07:09:39 @ Finished! Memory used: Mb0.576376<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[i] 20-09-27 07:09:39 @ Cala was booted...
+
+[d] 20-09-27 07:09:39 @ Loading module: db
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Conneted to Db
+
+[d] 20-09-27 07:09:39 @ Loading module: users
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading user
+
+[d] 20-09-27 07:09:39 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:39 @ Unable to locate user
+
+[d] 20-09-27 07:09:39 @ Loading module: crypto
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/contrib/genXML/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/contrib/genXML/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Function found
+
+[d] 20-09-27 07:09:39 @ Looking for path: gen_xml_fe
+
+[d] 20-09-27 07:09:39 @ Found path: gen_xml_fe
+
+[d] 20-09-27 07:09:39 @ Missing param: omitir_receptor
+
+[d] 20-09-27 07:09:39 @ Using default
+
+[d] 20-09-27 07:09:39 @ Missing param: total_serv_exonerados
+
+[d] 20-09-27 07:09:39 @ Using default
+
+[d] 20-09-27 07:09:39 @ Missing param: total_merc_exoneradas
+
+[d] 20-09-27 07:09:39 @ Using default
+
+[d] 20-09-27 07:09:39 @ Missing param: total_exonerado
+
+[d] 20-09-27 07:09:39 @ Using default
+
+[d] 20-09-27 07:09:39 @ Missing param: total_iva_devuelto
+
+[d] 20-09-27 07:09:39 @ Using default
+
+[d] 20-09-27 07:09:39 @ Missing param: total_otros_cargos
+
+[d] 20-09-27 07:09:39 @ Using default
+
+[d] 20-09-27 07:09:39 @ Missing param: otrosType
+
+[d] 20-09-27 07:09:39 @ Using default
+
+[d] 20-09-27 07:09:39 @ Missing param: otros_cargos
+
+[d] 20-09-27 07:09:39 @ Using default
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/contrib/genXML/genXML.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/contrib/genXML/genXML.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Found function: genXMLFe
+
+[d] 20-09-27 07:09:39 @ {"1":{"cantidad":1,"unidadMedida":"Sp","detalle":"","precioUnitario":"1","montoTotal":"1","subTotal":"1","montoTotalLinea":"1","montoDescuento":0,"naturalezaDescuento":""},"2":{"cantidad":1,"unidadMedida":"Unid","detalle":"servicio","precioUnitario":"1","montoTotal":"1","subTotal":"1","montoTotalLinea":"1","impuesto":{"1":{"codigo":"01","tarifa":11.7,"monto":0.11699999999999999}}}}
+
+[d] 20-09-27 07:09:39 @ Finished! Memory used: Mb1.377704<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[i] 20-09-27 07:09:39 @ Cala was booted...
+
+[d] 20-09-27 07:09:39 @ Loading module: db
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Conneted to Db
+
+[d] 20-09-27 07:09:39 @ Loading module: users
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading user
+
+[d] 20-09-27 07:09:39 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:39 @ Unable to locate user
+
+[d] 20-09-27 07:09:39 @ Loading module: crypto
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/contrib/signXML/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/contrib/signXML/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Function found
+
+[d] 20-09-27 07:09:39 @ Looking for path: signFE
+
+[d] 20-09-27 07:09:39 @ Found path: signFE
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/contrib/signXML/sign.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/contrib/signXML/sign.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Found function: signFE
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/files/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/files/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ SELECT * FROM files WHERE downloadCode = '7466cf867df583d429b58ff44f3edfa4'
+
+[d] 20-09-27 07:09:39 @ Finished! Memory used: Mb0.607968<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[i] 20-09-27 07:09:39 @ Cala was booted...
+
+[d] 20-09-27 07:09:39 @ Loading module: db
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Conneted to Db
+
+[d] 20-09-27 07:09:39 @ Loading module: users
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading user
+
+[d] 20-09-27 07:09:39 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:39 @ Unable to locate user
+
+[d] 20-09-27 07:09:39 @ Loading module: crypto
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/contrib/send/module.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/contrib/send/module.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Function found
+
+[d] 20-09-27 07:09:39 @ Looking for path: json
+
+[d] 20-09-27 07:09:39 @ Found path: json
+
+[d] 20-09-27 07:09:39 @ Missing param: callbackUrl
+
+[d] 20-09-27 07:09:39 @ Using default
+
+[d] 20-09-27 07:09:39 @ Loading in path: ./api/contrib/send/send.php
+
+[d] 20-09-27 07:09:39 @ Including file: ./api/contrib/send/send.php
+
+[d] 20-09-27 07:09:39 @ Module was booted too
+
+[d] 20-09-27 07:09:39 @ Found function: send
+
+[d] 20-09-27 07:09:39 @ JSON:{"clave":"50627092000011477073500100001010000000001115947626","fecha":"2020-09-27T19:39:09-06:00","emisor":{"tipoIdentificacion":"1","numeroIdentificacion":"72538237"},"receptor":{"tipoIdentificacion":"1","numeroIdentificacion":"3-100-000000"},"comprobanteXml":"VUVRNU5HSlhkMmRrYlZaNVl6SnNkbUpxTUdsTlV6UjNTV2xDYkdKdFRuWmFSMngxV25vd2FXUllVbTFNVkdkcFVIbzBTMGxEUVdkSlJIaEhXVmRPTUdSWVNtaFNWM2hzV1ROU2VXSXlOWEJaTWtWblpVY3hjMkp1VFRsSmJXZ3daRWhDZWs5cE9IWlpNbEoxVEcxT2RtSllRbmxpTWtwb1ltNVNiR015Vm5OYVYwNHdZMjA1ZFdGWFRuWmplVFZ1WW5rMWFtTnBPVFJpVjNkMFl6Sk9iMXBYTVdoamVUa3lUa00wZWt3eVdtaFpNMUl4WTIxR1JtSkhWbXBrU0VwMlltMXNhbGxUU1dkbFJ6RnpZbTVOTm1WSVRtdFFVMHB2WkVoU2QwOXBPSFprTTJRelRHNWpla3h0T1hsYWVUaDVUVVJCZUV3eGFFNVVSazVxWVVkV2RGbFRTV2RsUnpGelltNU5ObVZJVG5CUVUwcHZaRWhTZDA5cE9IWmtNMlF6VEc1amVreHRPWGxhZVRoNVRVUkJlRXd4YUU1VVJrNXFZVWRXZEZsVE1YQmliazR3V1ZjMWFscFRTU3REYVVGblNVTkJaMGxEUVdkUVJVNXpXVmhhYkZCcVZYZE9ha2t6VFVScmVVMUVRWGROUkVWNFRrUmpNMDFFWTNwT1ZFRjNUVlJCZDAxRVFYaE5SRVYzVFVSQmQwMUVRWGROUkVGNFRWUkZNVTlVVVROT2Fra3lVRU01UkdKSFJqSmFWRFJMU1VOQlowbERRV2RKUTBFNFVUSTVhMkZYWkhaUlYwNHdZVmhhY0ZwSFJtdFFha0Y0VFZSRmQwMTZkM1pSTWpscllWZGtkbEZYVGpCaFdGcHdXa2RHYTFCbmIyZEpRMEZuU1VOQlowbEVlRTlrVnpGc1kyMDVSR0l5TlhwYVYwNHhaRWRzTW1KNk5IZE5SRVYzVFVSQmQwMVVRWGhOUkVGM1RVUkJkMDFFUVhkTlZIZDJWRzVXZEZwWVNuWlJNamwxWXpKV2FtUllVbkJrYlRnclEybEJaMGxEUVdkSlEwRm5VRVZhYkZreWFHaFNWekZ3WXpKc2RtSnFOSGxOUkVsM1RGUkJOVXhVU1ROV1JFVTFUMnBCTlU5cVRUVlFRemxIV2xkT2IxbFZWblJoV0U1d1lqSTBLME5wUVdkSlEwRm5TVU5CWjFCRlZuUmhXRTUyWTJvMFMwbERRV2RKUTBGblNVTkJaMGxEUVdkUVJUVjJZbGRLZVZwVU5XRmlNMUpvU1VWT2FHTnRVVGhNTURWMllsZEtlVnBVTkV0SlEwRm5TVU5CWjBsRFFXZEpRMEZuVUVWc2ExcFhOVEJoVjFwd1dUSkdhbUZYT1hWUVoyOW5TVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RRUmxKd1kwYzRLMDFVZDNaV1IyeDNZbm8wUzBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblNVUjRUMlJYTVd4amJUZ3JUbnBKTVUxNlozbE5lbU00VERBMU1XSlhWbmxpZWpSTFNVTkJaMGxEUVdkSlEwRm5TVU5CWjFCRE9VcGFSMVoxWkVkc2JXRlhUbWhaTW14MlltbzBTMGxEUVdkSlEwRm5TVU5CWjBsRFFXZFFSVFYyWWxkS2VWcFZUblppVjFaNVdUSnNhR0pFTldGaU0xSm9VVEpHZVZwRWQzWlViVGwwV1c1S2JGRXlPWFJhV0VwcVlWZEdjMUJuYjJkSlEwRm5TVU5CWjBsRWVGWlpiV3hxV1ZkT2NHSXlOQ3REYVVGblNVTkJaMGxEUVdkSlEwRm5TVVI0VVdOdE9USmhWelZxWVZkRkswMVVkM1pWU0VwMlpHMXNkVmt5YkdoUVoyOW5TVU5CWjBsRFFXZEpRMEZuU1VOQk9GRXlSblZrUnpsMVVHcEpPRXd3VG1oaWJsSjJZbW8wUzBsRFFXZEpRMEZuU1VOQlowbERRV2RRUlZKd1l6TlNlV0ZZVW5aUWFrMDRUREJTY0dNelVubGhXRkoyVUdwNFExbFlTbmxoVnpnclRWUjNkbEZ0Um5samJXeDJVR2R2WjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblVFVTVNR050Um5wVk1sWjFXVmhOSzFwdVNteGlibEpzU1VkR2MwbElRbWhqYmtZeFdsUjNkbFF6VW5sWldFNVVXbGMxYUdONk5FdEpRMEZuU1VOQlowbERRV2RKUTBGblVFTTVWbGx0YkdwWlYwNXdZakkwSzBOcFFXZEpRMEZuU1VOQlowbERRV2RKUkhoVldsZDRiRnB0T1hWaWVqUkxTVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUkhoRVlqSlNjRm95T1ZGWlYyeDZVR3BWZDA1cWQzWlJNamxyWVZka2RsVkhSbkJqZWpSTFNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFFXZEpSSGhQWkZjeFZWcFhlR3hhYlRsMVlubzBNazVFU1hkT2FrbDNUbFIzZGxSdVZuUldSMVp6V2xkYWRtSnRPQ3REYVVGblNVTkJaMGxEUVdkSlEwRm5TVVIzZGxaSFZuTmFWMXAyWW0wNEswTnBRV2RKUTBGblNVTkJaMGxEUVdkSlJIaEhXVmhuSzBOcFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJPRkV5T1d0aFYyUjJWVWRHY0dONk5ERk5SRms0VERCT2RscEhiRzVpTVVKb1lWaE5LME5wUVdkSlEwRm5TVU5CWjBsRFFXZEpRMEZuU1VOQk9GUnVWblJXUjFaeldsZGFkbUp0T0N0TlJIZDJWRzVXZEZaSFZuTmFWMXAyWW0wNEswTnBRV2RKUTBGblNVTkJaMGxEUVdkSlJIZDJVbTFHTkZCcWVFUmlNMHA1V2xjNVJtSkhWbXBrU0VwMlltMXNhbUo2TlhkamJUbHFXbGhPZG1Nd1FqWmlNMUpvV1RKR2VWcEROV3BpTWpBNFREQk9kbU51U214aU1GWnpXbGRPTUdOdE9YVmhWMDUyVUdkdlowbERRV2RKUTBGblNVUjNkbEpYTVhCak1qbDVVR3A0VTFwWFRteGpTRkoyWTJvMFMwbERRV2RKUTBGblNVTkJaMGxEUVdkUVJUVjJZbGRLZVZwVU5WVmFWelZyV2xjMU5sbFVkM1pVYlRsMFdXNUtiRkJxZUVwYVIxWjFaRWRzYldGWFRtaFpNbXgyWW1vMFMwbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFFUaFdSMngzWW5vMGVGQkRPVlZoV0VKMlVHZHZaMGxEUVdkSlEwRm5TVU5CWjBsRFFXZEpRMEZuU1VOQlowbEVlRTlrVnpGc1kyMDRLMDE1TUhoTlJFRjBUVVJCZDAxRVFYZFFRemxQWkZjeGJHTnRPQ3REYVVGblNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFFUaE1NR3hyV2xjMU1HRlhXbkJaTWtacVlWYzVkVkJuYjJkSlEwRm5TVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUkhoV1dXMXNhbGxYVG5CaU1qUXJRMmxCWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlJIaFJZMjA1TW1GWE5XcGhWMFVyVFZSM2RsVklTblprYld4MVdUSnNhRkJuYjJkSlEwRm5TVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJPRkV5Um5Wa1J6bDFVR3BGT0V3d1RtaGlibEoyWW1vMFMwbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFFXZEpRMEZuVUVWU2NHTXpVbmxoV0ZKMlVHcEZPRXd3VW5Cak0xSjVZVmhTZGxCcWVFTlpXRXA1WVZjNEswMVVkM1pSYlVaNVkyMXNkbEJuYjJkSlEwRm5TVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJPRlF6VW5sWldFNVVXbGMxYUdONk5VTlpXRXA1WVZjNFoySlhWalJoVjA1MlNVZFNiR1JJU21oamVVSnJXbE5DYzFsVFFtbGlNakZwV1ZOQ1MxVXdNRGhNTURrd1kyMUdlbFV5Vm5WWldFMHJRMmxCWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJaMUJET1ZaWmJXeHFXVmRPY0dJeU5DdFFSbEpzWWtkV2JXSXlOWFpRWjI5blNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJPRkV5T1d0aFYyUjJWVWRHY0dONk5ERk5SRms0VERCT2RscEhiRzVpTVVKb1lWaE5LME5wUVdkSlEwRm5TVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlJIaFBaRmN4VlZwWGVHeGFiVGwxWW5vME5FOUVaelJNVkdjMFQwUm5PRXd3TlRGaVZsSnNZa2RXYldJeU5YWlFaMjluU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVVIzZGxaSFZuTmFWMXAyWW0wNEsxQkZXbWhsUkRSTFNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJaMUJGVG5aYVIyeHVZakZDYUdGWVRTdE9WRUV5VUVNNVJHSXlVbkJhTWpsUldWZHNlbEJuYjJkSlEwRm5TVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlJIaFBaRmN4VlZwWGVHeGFiVGwxWW5vMGQxQkRPVTlrVnpGVldsZDRiRnB0T1hWaWVqUkxTVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJPRXd3V21obFJEUTRVVEk1ZVdOdFZuWlNWM2hzV1ROU2VXSXlOWEJaTWpncllXMDVlbUZJVm1oaGJXeDBXbGMxYkdWdVNrRmFNakZvWVZkM2RWa3lPWFJRUXpsRVlqTktlVnBYT1VaaVIxWnFaRWhLZG1KdGJHcGllalE0VERGS2JGa3lWbmRrUnpsNVVHZHZaMGxEUVdkSlEwRm5TVVI0UkdJeU5XdGhWMDV3WWpJMVYxcFhOVEJaVkRSNFVFTTVSR0l5Tld0aFYwNXdZakkxVjFwWE5UQlpWRFJMU1VOQlowbERRV2RKUTBFNFZVZDRhR1Z0T1VSamJWWnJZVmhTZGxCcVFUaE1NVUp6V1Zod2RsRXpTbXhhUjJ3d1lubzBTMGxEUVdkSlEwRm5TVU5CT0ZSWFZtdGhWemxSV1Zka2RsQnFSVGhNTURGc1drZHNkbFZIUm01aWVqUkxTVU5CWjBsRFFXZEpRMEU0VWtkV01GbFhlSE5hVms1c1kyNWFjRmt5YkhaUWFuaE5ZVmMxYkZsVlVteGtSMFp6WWtkVkswTnBRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRWVFOWtWekZzWTIwNVRXRlhOV3haVkRSNFVFTTVUMlJYTVd4amJUbE5ZVmMxYkZsVU5FdEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVdkUVJVNTJXa2RzYm1KNk5EaE1NRTUyV2tkc2JtSjZORGhSTWtaMVpFZHNhMWxYVVN0TlZIZDJVVEpHZFdSSGJHdFpWMUVyUTJsQlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVVI0Vm1KdGJHdFpWMUpPV2xkU2NGcEhSU3RWTTBFNFRERldkV0ZYVW1oYVJURnNXa2RzYTFsVU5FdEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVdkUVJWSnNaRWRHYzJKSFZTdFFRemxGV2xoU2FHSkhlR3hRWjI5blNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFFXZEpRMEU0VlVoS2JGa3liSFpXVnpWd1pFZEdlV0ZYT0N0TlZIZDJWVWhLYkZreWJIWldWelZ3WkVkR2VXRlhPQ3REYVVGblNVTkJaMGxEUVdkSlEwRm5TVU5CWjBsRFFXZEpSSGhPWWpJMU1HSXhVblprUjBaelVHcEZPRXd3TVhaaWJsSjJWa2M1TUZsWGR5dFFSazR4V1d4U2RtUkhSbk5RYW5kMlZUTldhVlpIT1RCWlYzY3JVRVV4ZG1KdVVuWldSemt3V1ZkNFRXRlhOV3haVkRSNFVFTTVUbUl5TlRCaU1WSjJaRWRHYzFSSGJIVmFWMFVyVUVNNVRXRlhOV3haVlZKc1pFZEdjMkpIVlN0UVJYaHdZbTFXYUZKSFZqQlpWM2h6V2xRMFMwbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5TVU5CWjFCRk5URmlWMVo1WWpCNGNHSnRWbWhRYWtrNFREQTFNV0pYVm5saU1IaHdZbTFXYUZCbmIyZEpRMEZuU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVRoUk1qbHJZVmRrZGxCcWQzWlJNamxyWVZka2RsQnFlRVJaVnpVd1lWZFNhRnBFTkhoUVF6bEVXVmMxTUdGWFVtaGFSRFJMU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlEwRm5VRVpXZFdGWFVtaGFSVEZzV2tkc2ExbFVOVlppYld4clVFTTVWbUp0Ykd0WlYxSk9XbGRTY0ZwSFJTdERhVUZuU1VOQlowbERRV2RKUTBGblNVTkJaMGxEUVdkSlJIaEZXbGhTYUdKSGVHeFFiazVzWTI1YWNGa3liSFpRUXpsRldsaFNhR0pIZUd4UVoyOW5TVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUTBFNFZVaEtiRmt5YkhaV1Z6VndaRWRHZVdGWE9DdE5WSGQyVlVoS2JGa3liSFpXVnpWd1pFZEdlV0ZYT0N0RGFVRm5TVU5CWjBsRFFXZEpRMEZuU1VOQlowbERRV2RKUkhoT1lqSTFNR0l4VW5aa1IwWnpVR3BGT0V3d01YWmlibEoyVmtjNU1GbFhkeXRRUms0eFdXeFNkbVJIUm5OUWFuZDJWVE5XYVZaSE9UQlpWM2NyVUVWc2RHTklWbXhqTTFKMlVHZHZaMGxEUVdkSlEwRm5TVU5CWjBsRFFXZEpRMEZuVUVWT2RscEhiRzVpZWpSM1RWUjNkbEV5T1d0aFYyUjJVR3A0VlZsWVNuQmFiVVVyVFZSRmRVNTZkM1pXUjBaNVlWZGFhRkJxZUU1aU1qVXdZbm8wZDB4cVJYaE9lbmQyVkZjNWRXUkhPQ3RRUXpsS1lsaENNVnBZVGpCaWVqUTRWRmM1ZFdSSE9WVmlNMUpvWWtWNGNHSnRWbWhRYWtVNFREQXhkbUp1VW5aV1J6a3dXVmQ0VFdGWE5XeFpWRFE0VERCNGNHSnRWbWhTUjFZd1dWZDRjMXBVTkRoTU1GSnNaRWRHYzJKSFZsUmFXRW95WVZkT2NHSjZORGhWYlZaNlpGY3hiR0pyV21oWk0xSXhZMjFGSzFCRlRuWmFSMnh1WWpGU2NHTkhPVTVpTWpWc1drZEZLME5wUVdkSlEwRm5TVU5CWjFCRlRuWmFSMnh1WWpBeGRtSnRWbXRaVkRWRVZXdE5PRXd3VG5aYVIyeHVZakF4ZG1KdFZtdFpWRFJMU1VOQlowbERRV2RKUTBFNFZrZHNkMkl3VG1oaVYwcHdZbm8wTVU1cVVYVk9SR2M0VERGU2NHTkhPVVJaVnpGcFlWYzRLME5wUVdkSlEwRm5TVU5CWjFCRE9VUmlNbEp3V2pJNVZXRllRblpVVnpsMVdsZFNhRkJxZUZWaU0xSm9Za1pPYkdOdVdraGpiVVl5V1ZkU2RtTjZOSGRRUXpsVllqTlNhR0pHVG14amJscElZMjFHTWxsWFVuWmplalJMU1VOQlowbERRV2RKUTBFNFZrYzVNRmxYZUZSYVdFb3lVbGhvYkdKdVVuWmplalI0VUVNNVZXSXpVbWhpUms1c1kyNWFSbVZIVm5Wa1J6bDZVR3A0VldJelVtaGlSVEZzWTIxT2FHSnRUbkJaV0U1SVkyMUdNbGxYVW1oamVqUjNVRU01VldJelVtaGlSVEZzWTIxT2FHSnRUbkJaV0U1SVkyMUdNbGxYVW1oamVqUkxTVU5CWjBsRFFXZEpRMEU0VmtjNU1GbFhlRTVhV0VwcVdWYzFhbUZYUm5wU1dHaHNZbTVTYUdONk5IZFFRemxWWWpOU2FHSkZNV3hqYlU1b1ltMU9jRmxZVGtabFIxWjFaRWRHZWxCcWVGVmlNMUpvWWtWa2VWbFlXbWhhUnpnclRVUjNkbFpIT1RCWlYzaElZMjFHTWxsWFVuWlFaMjluU1VOQlowbERRV2RKUkhoVllqTlNhR0pGVmpSYVZ6VXdZbm8wZUZCRE9WVmlNMUpvWWtWV05GcFhOVEJpZWpRNFZrYzVNRmxYZUZkYVZ6VXdXVlEwZUZCRE9WVmlNMUpvWWtaYWJHSnVVbWhRWjI5blNVTkJaMGxEUVdkSlJIaFZZak5TYUdKRlVteGpNazR4V2xjMU1HSXpUU3ROUkhkMlZrYzVNRmxYZUVWYVdFNXFaRmRXZFdSSE9YcFFaMjluU1VOQlowbERRV2RKUkhoVllqTlNhR0pHV214aWJsSm9WRzFXTUZsVU5IaFFRemxWWWpOU2FHSkdXbXhpYmxKb1ZHMVdNRmxVTkV0SlEwRm5TVU5CWjBsRFFUaFdSemt3V1ZkNFNtSllRakZhV0U0d1lubzBkMUJET1ZWaU0xSm9Za1ZzZEdOSVZteGpNMUoyVUdwNFZXSXpVbWhpUlU1MllsaENlV0l5U21oaWJsSnNVR3BGT0V3eFVuWmtSMFp6VVRJNWRHTklTblpaYlVaMVpFZFZLME5wUVdkSlEwRm5TVU5CWjFCRE9WTmFXRTR4WWxkV2RWSnRSbXBrU0ZaNVdWUTBTMGxEUVdkSlJIZDJVbTFHYW1SSVZubFpWVlp6V2xkT01HTnRPWFZoVjA1b1VHYzlQUT09"}
+
+[d] 20-09-27 07:09:40 @ Finished! Memory used: Mb0.617888<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[i] 20-09-27 07:09:40 @ Cala was booted...
+
+[d] 20-09-27 07:09:40 @ Loading module: db
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Conneted to Db
+
+[d] 20-09-27 07:09:40 @ Loading module: users
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Loading user
+
+[d] 20-09-27 07:09:40 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:40 @ Unable to locate user
+
+[d] 20-09-27 07:09:40 @ Loading module: crypto
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/contrib/clave/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/contrib/clave/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Function found
+
+[d] 20-09-27 07:09:40 @ Looking for path: clave
+
+[d] 20-09-27 07:09:40 @ Found path: clave
+
+[d] 20-09-27 07:09:40 @ Missing param: terminal
+
+[d] 20-09-27 07:09:40 @ Using default
+
+[d] 20-09-27 07:09:40 @ Missing param: sucursal
+
+[d] 20-09-27 07:09:40 @ Using default
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/contrib/clave/clave.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/contrib/clave/clave.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Found function: getClave
+
+[d] 20-09-27 07:09:40 @ CCE
+
+[d] 20-09-27 07:09:40 @ Finished! Memory used: Mb0.461792<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[i] 20-09-27 07:09:40 @ Cala was booted...
+
+[d] 20-09-27 07:09:40 @ Loading module: db
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Conneted to Db
+
+[d] 20-09-27 07:09:40 @ Loading module: users
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Loading user
+
+[d] 20-09-27 07:09:40 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:40 @ Unable to locate user
+
+[d] 20-09-27 07:09:40 @ Loading module: crypto
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/contrib/genXML/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/contrib/genXML/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Function found
+
+[d] 20-09-27 07:09:40 @ Looking for path: gen_xml_mr
+
+[d] 20-09-27 07:09:40 @ Found path: gen_xml_mr
+
+[d] 20-09-27 07:09:40 @ Missing param: detalle_mensaje
+
+[d] 20-09-27 07:09:40 @ Using default
+
+[d] 20-09-27 07:09:40 @ Missing param: condicion_impuesto
+
+[d] 20-09-27 07:09:40 @ Using default
+
+[d] 20-09-27 07:09:40 @ Missing param: monto_total_impuesto_acreditar
+
+[d] 20-09-27 07:09:40 @ Using default
+
+[d] 20-09-27 07:09:40 @ Missing param: monto_total_de_gasto_aplicable
+
+[d] 20-09-27 07:09:40 @ Using default
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/contrib/genXML/genXML.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/contrib/genXML/genXML.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Found function: genXMLMr
+
+[d] 20-09-27 07:09:40 @ Finished! Memory used: Mb0.462512<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[i] 20-09-27 07:09:40 @ Cala was booted...
+
+[d] 20-09-27 07:09:40 @ Loading module: db
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Conneted to Db
+
+[d] 20-09-27 07:09:40 @ Loading module: users
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Loading user
+
+[d] 20-09-27 07:09:40 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:40 @ Unable to locate user
+
+[d] 20-09-27 07:09:40 @ Loading module: crypto
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/contrib/consultar/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/contrib/consultar/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Function found
+
+[d] 20-09-27 07:09:40 @ Looking for path: consultarCom
+
+[d] 20-09-27 07:09:40 @ Found path: consultarCom
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Found function: consutar
+
+[d] 20-09-27 07:09:41 @ Finished! Memory used: Mb0.529416<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[i] 20-09-27 07:09:40 @ Cala was booted...
+
+[d] 20-09-27 07:09:40 @ Loading module: db
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Conneted to Db
+
+[d] 20-09-27 07:09:40 @ Loading module: users
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Loading user
+
+[d] 20-09-27 07:09:40 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:40 @ Unable to locate user
+
+[d] 20-09-27 07:09:40 @ Loading module: crypto
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Loading user
+
+[d] 20-09-27 07:09:40 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:40 @ Unable to locate user
+
+[d] 20-09-27 07:09:40 @ Function found
+
+[d] 20-09-27 07:09:40 @ Looking for path: users_log_me_in
+
+[d] 20-09-27 07:09:40 @ Found path: users_log_me_in
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/users/login.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/users/login.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:40 @ Loading user
+
+[d] 20-09-27 07:09:40 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:40 @ Unable to locate user
+
+[d] 20-09-27 07:09:40 @ Found function: users_logMeIn
+
+[d] 20-09-27 07:09:40 @ Log in this person
+
+[d] 20-09-27 07:09:40 @ username based login
+
+[d] 20-09-27 07:09:40 @ Loading user
+
+[d] 20-09-27 07:09:40 @ SELECT *
+    FROM users
+     WHERE userName = 'zotaApp'
+
+[d] 20-09-27 07:09:40 @ Loading in path: ./api/modules/crypto/crypto.php
+
+[d] 20-09-27 07:09:40 @ Including file: ./api/modules/crypto/crypto.php
+
+[d] 20-09-27 07:09:40 @ Module was booted too
+
+[d] 20-09-27 07:09:41 @ Able to login
+
+[d] 20-09-27 07:09:41 @ delete from sessions where idUser='1'
+
+[d] 20-09-27 07:09:41 @ Loading in path: ./api/modules/crypto/crypto.php
+
+[d] 20-09-27 07:09:41 @ Including file: ./api/modules/crypto/crypto.php
+
+[d] 20-09-27 07:09:41 @ Module was booted too
+
+[d] 20-09-27 07:09:41 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', 'U0djWmN5QVR6dlhLMnpiNy9LNDc2UT09OjqOBcVZR1Bh/YQ8RnV8A+uZ', '127.0.0.1', '1601258201')
+
+[d] 20-09-27 07:09:41 @ Finished! Memory used: Mb0.466808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:41 @ Module was booted too
+
+[i] 20-09-27 07:09:41 @ Cala was booted...
+
+[d] 20-09-27 07:09:41 @ Loading module: db
+
+[d] 20-09-27 07:09:41 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:41 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:41 @ Module was booted too
+
+[d] 20-09-27 07:09:41 @ Conneted to Db
+
+[d] 20-09-27 07:09:41 @ Loading module: users
+
+[d] 20-09-27 07:09:41 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:41 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:41 @ Module was booted too
+
+[d] 20-09-27 07:09:41 @ Loading user
+
+[d] 20-09-27 07:09:41 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:41 @ Unable to locate user
+
+[d] 20-09-27 07:09:41 @ Loading module: crypto
+
+[d] 20-09-27 07:09:41 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:41 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:41 @ Module was booted too
+
+[d] 20-09-27 07:09:41 @ Loading in path: ./api/contrib/token/module.php
+
+[d] 20-09-27 07:09:41 @ Including file: ./api/contrib/token/module.php
+
+[d] 20-09-27 07:09:41 @ Module was booted too
+
+[d] 20-09-27 07:09:41 @ Function found
+
+[d] 20-09-27 07:09:41 @ Looking for path: gettoken
+
+[d] 20-09-27 07:09:41 @ Found path: gettoken
+
+[d] 20-09-27 07:09:41 @ Missing param: client_secret
+
+[d] 20-09-27 07:09:41 @ Using default
+
+[d] 20-09-27 07:09:41 @ Loading in path: ./api/contrib/token/mhToken.php
+
+[d] 20-09-27 07:09:41 @ Including file: ./api/contrib/token/mhToken.php
+
+[d] 20-09-27 07:09:41 @ Module was booted too
+
+[d] 20-09-27 07:09:41 @ Found function: token
+
+[d] 20-09-27 07:09:41 @ JSON: client_id=api-stag&client_secret=0&grant_type=password&username=cpf-01-0974-0757%40stag.comprobanteselectronicos.go.cr&password=%3FX%7D2%7C%5B%2451%3Ej%40k%2A40V%5BB%40
+
+[d] 20-09-27 07:09:41 @ Finished! Memory used: Mb0.460912<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-27 07:09:41 @ Module was booted too
+
+[i] 20-09-27 07:09:41 @ Cala was booted...
+
+[d] 20-09-27 07:09:41 @ Loading module: db
+
+[d] 20-09-27 07:09:41 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:41 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-27 07:09:41 @ Module was booted too
+
+[d] 20-09-27 07:09:41 @ Conneted to Db
+
+[d] 20-09-27 07:09:41 @ Loading module: users
+
+[d] 20-09-27 07:09:41 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:41 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-27 07:09:41 @ Module was booted too
+
+[d] 20-09-27 07:09:41 @ Loading user
+
+[d] 20-09-27 07:09:41 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-27 07:09:41 @ Unable to locate user
+
+[d] 20-09-27 07:09:41 @ Loading module: crypto
+
+[d] 20-09-27 07:09:41 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:41 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-27 07:09:41 @ Module was booted too
+
+[d] 20-09-27 07:09:41 @ Loading in path: ./api/contrib/consultar/module.php
+
+[d] 20-09-27 07:09:41 @ Including file: ./api/contrib/consultar/module.php
+
+[d] 20-09-27 07:09:41 @ Module was booted too
+
+[d] 20-09-27 07:09:41 @ Function found
+
+[d] 20-09-27 07:09:41 @ Looking for path: consultarCom
+
+[d] 20-09-27 07:09:41 @ Found path: consultarCom
+
+[d] 20-09-27 07:09:41 @ Loading in path: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-27 07:09:41 @ Including file: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-27 07:09:41 @ Module was booted too
+
+[d] 20-09-27 07:09:41 @ Found function: consutar
+
+[d] 20-09-27 07:09:41 @ Finished! Memory used: Mb0.465488<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

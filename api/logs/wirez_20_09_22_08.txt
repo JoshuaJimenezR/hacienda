@@ -1,0 +1,954 @@
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[i] 20-09-22 08:09:58 @ Cala was booted...
+
+[d] 20-09-22 08:09:58 @ Loading module: db
+
+[d] 20-09-22 08:09:58 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:58 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[d] 20-09-22 08:09:58 @ Conneted to Db
+
+[d] 20-09-22 08:09:58 @ Loading module: users
+
+[d] 20-09-22 08:09:58 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:58 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[d] 20-09-22 08:09:58 @ Loading user
+
+[d] 20-09-22 08:09:58 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-22 08:09:58 @ Unable to locate user
+
+[d] 20-09-22 08:09:58 @ Loading module: crypto
+
+[d] 20-09-22 08:09:58 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:58 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[d] 20-09-22 08:09:58 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:58 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[d] 20-09-22 08:09:58 @ Loading user
+
+[d] 20-09-22 08:09:58 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-22 08:09:58 @ Unable to locate user
+
+[d] 20-09-22 08:09:58 @ Function found
+
+[d] 20-09-22 08:09:58 @ Looking for path: users_log_me_in
+
+[d] 20-09-22 08:09:58 @ Found path: users_log_me_in
+
+[d] 20-09-22 08:09:58 @ Loading in path: ./api/modules/users/login.php
+
+[d] 20-09-22 08:09:58 @ Including file: ./api/modules/users/login.php
+
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[d] 20-09-22 08:09:58 @ Loading user
+
+[d] 20-09-22 08:09:58 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-22 08:09:58 @ Unable to locate user
+
+[d] 20-09-22 08:09:58 @ Found function: users_logMeIn
+
+[d] 20-09-22 08:09:58 @ Log in this person
+
+[d] 20-09-22 08:09:58 @ username based login
+
+[d] 20-09-22 08:09:58 @ Loading user
+
+[d] 20-09-22 08:09:58 @ SELECT *
+    FROM users
+     WHERE userName = 'zotaApp'
+
+[d] 20-09-22 08:09:58 @ Loading in path: ./api/modules/crypto/crypto.php
+
+[d] 20-09-22 08:09:58 @ Including file: ./api/modules/crypto/crypto.php
+
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[d] 20-09-22 08:09:58 @ Able to login
+
+[d] 20-09-22 08:09:58 @ delete from sessions where idUser='1'
+
+[d] 20-09-22 08:09:58 @ Loading in path: ./api/modules/crypto/crypto.php
+
+[d] 20-09-22 08:09:58 @ Including file: ./api/modules/crypto/crypto.php
+
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[d] 20-09-22 08:09:58 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', 'U0xPb3ZnRTVEaEJsalZlUGMxaVV0Zz09Ojod3cqbdMbttbcMuyaufX9w', '127.0.0.1', '1600826818')
+
+[d] 20-09-22 08:09:58 @ Finished! Memory used: Mb0.466808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[i] 20-09-22 08:09:58 @ Cala was booted...
+
+[d] 20-09-22 08:09:58 @ Loading module: db
+
+[d] 20-09-22 08:09:58 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:58 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[d] 20-09-22 08:09:58 @ Conneted to Db
+
+[d] 20-09-22 08:09:58 @ Loading module: users
+
+[d] 20-09-22 08:09:58 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:58 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[d] 20-09-22 08:09:58 @ Loading user
+
+[d] 20-09-22 08:09:58 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-22 08:09:58 @ Unable to locate user
+
+[d] 20-09-22 08:09:58 @ Loading module: crypto
+
+[d] 20-09-22 08:09:58 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:58 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[d] 20-09-22 08:09:58 @ Loading in path: ./api/contrib/token/module.php
+
+[d] 20-09-22 08:09:58 @ Including file: ./api/contrib/token/module.php
+
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[d] 20-09-22 08:09:58 @ Function found
+
+[d] 20-09-22 08:09:58 @ Looking for path: gettoken
+
+[d] 20-09-22 08:09:58 @ Found path: gettoken
+
+[d] 20-09-22 08:09:58 @ Missing param: client_secret
+
+[d] 20-09-22 08:09:58 @ Using default
+
+[d] 20-09-22 08:09:58 @ Loading in path: ./api/contrib/token/mhToken.php
+
+[d] 20-09-22 08:09:58 @ Including file: ./api/contrib/token/mhToken.php
+
+[d] 20-09-22 08:09:58 @ Module was booted too
+
+[d] 20-09-22 08:09:58 @ Found function: token
+
+[d] 20-09-22 08:09:58 @ JSON: client_id=api-stag&client_secret=0&grant_type=password&username=cpf-01-0974-0757%40stag.comprobanteselectronicos.go.cr&password=%3FX%7D2%7C%5B%2451%3Ej%40k%2A40V%5BB%40
+
+[d] 20-09-22 08:09:02 @ Finished! Memory used: Mb0.460912<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-22 08:09:02 @ Module was booted too
+
+[i] 20-09-22 08:09:02 @ Cala was booted...
+
+[d] 20-09-22 08:09:02 @ Loading module: db
+
+[d] 20-09-22 08:09:02 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:02 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:02 @ Module was booted too
+
+[d] 20-09-22 08:09:02 @ Conneted to Db
+
+[d] 20-09-22 08:09:02 @ Loading module: users
+
+[d] 20-09-22 08:09:02 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:02 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:02 @ Module was booted too
+
+[d] 20-09-22 08:09:02 @ Loading user
+
+[d] 20-09-22 08:09:02 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-22 08:09:02 @ Unable to locate user
+
+[d] 20-09-22 08:09:02 @ Loading module: crypto
+
+[d] 20-09-22 08:09:02 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:02 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:02 @ Module was booted too
+
+[d] 20-09-22 08:09:02 @ Loading in path: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:02 @ Including file: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:02 @ Module was booted too
+
+[d] 20-09-22 08:09:02 @ Function found
+
+[d] 20-09-22 08:09:02 @ Looking for path: consultarCom
+
+[d] 20-09-22 08:09:02 @ Found path: consultarCom
+
+[d] 20-09-22 08:09:02 @ Loading in path: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:02 @ Including file: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:02 @ Module was booted too
+
+[d] 20-09-22 08:09:02 @ Found function: consutar
+
+[d] 20-09-22 08:09:03 @ Finished! Memory used: Mb0.46552<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-22 08:09:49 @ Module was booted too
+
+[i] 20-09-22 08:09:49 @ Cala was booted...
+
+[d] 20-09-22 08:09:49 @ Loading module: db
+
+[d] 20-09-22 08:09:49 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:49 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:49 @ Module was booted too
+
+[d] 20-09-22 08:09:49 @ Conneted to Db
+
+[d] 20-09-22 08:09:49 @ Loading module: users
+
+[d] 20-09-22 08:09:49 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:49 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:49 @ Module was booted too
+
+[d] 20-09-22 08:09:49 @ Loading user
+
+[d] 20-09-22 08:09:49 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-22 08:09:49 @ Unable to locate user
+
+[d] 20-09-22 08:09:49 @ Loading module: crypto
+
+[d] 20-09-22 08:09:49 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:49 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:49 @ Module was booted too
+
+[d] 20-09-22 08:09:49 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:49 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:49 @ Module was booted too
+
+[d] 20-09-22 08:09:49 @ Loading user
+
+[d] 20-09-22 08:09:49 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-22 08:09:49 @ Unable to locate user
+
+[d] 20-09-22 08:09:49 @ Function found
+
+[d] 20-09-22 08:09:49 @ Looking for path: users_log_me_in
+
+[d] 20-09-22 08:09:49 @ Found path: users_log_me_in
+
+[d] 20-09-22 08:09:49 @ Loading in path: ./api/modules/users/login.php
+
+[d] 20-09-22 08:09:49 @ Including file: ./api/modules/users/login.php
+
+[d] 20-09-22 08:09:49 @ Module was booted too
+
+[d] 20-09-22 08:09:49 @ Loading user
+
+[d] 20-09-22 08:09:49 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-22 08:09:49 @ Unable to locate user
+
+[d] 20-09-22 08:09:49 @ Found function: users_logMeIn
+
+[d] 20-09-22 08:09:49 @ Log in this person
+
+[d] 20-09-22 08:09:49 @ username based login
+
+[d] 20-09-22 08:09:49 @ Loading user
+
+[d] 20-09-22 08:09:49 @ SELECT *
+    FROM users
+     WHERE userName = 'zotaApp'
+
+[d] 20-09-22 08:09:49 @ Loading in path: ./api/modules/crypto/crypto.php
+
+[d] 20-09-22 08:09:49 @ Including file: ./api/modules/crypto/crypto.php
+
+[d] 20-09-22 08:09:49 @ Module was booted too
+
+[d] 20-09-22 08:09:50 @ Able to login
+
+[d] 20-09-22 08:09:50 @ delete from sessions where idUser='1'
+
+[d] 20-09-22 08:09:50 @ Loading in path: ./api/modules/crypto/crypto.php
+
+[d] 20-09-22 08:09:50 @ Including file: ./api/modules/crypto/crypto.php
+
+[d] 20-09-22 08:09:50 @ Module was booted too
+
+[d] 20-09-22 08:09:50 @ INSERT INTO sessions (idUser, sessionKey, ip, lastAccess) VALUES('1', 'c042T05TYW5SQnZRK21TelJzbUlvQT09OjokyA+T9pCakjn3S/0JHRMm', '127.0.0.1', '1600826870')
+
+[d] 20-09-22 08:09:50 @ Finished! Memory used: Mb0.466808<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-22 08:09:50 @ Module was booted too
+
+[i] 20-09-22 08:09:50 @ Cala was booted...
+
+[d] 20-09-22 08:09:50 @ Loading module: db
+
+[d] 20-09-22 08:09:50 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:50 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:50 @ Module was booted too
+
+[d] 20-09-22 08:09:50 @ Conneted to Db
+
+[d] 20-09-22 08:09:50 @ Loading module: users
+
+[d] 20-09-22 08:09:50 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:50 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:50 @ Module was booted too
+
+[d] 20-09-22 08:09:50 @ Loading user
+
+[d] 20-09-22 08:09:50 @ SELECT *
+    FROM users
+     WHERE userName = ''
+
+[d] 20-09-22 08:09:50 @ Unable to locate user
+
+[d] 20-09-22 08:09:50 @ Loading module: crypto
+
+[d] 20-09-22 08:09:50 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:50 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:50 @ Module was booted too
+
+[d] 20-09-22 08:09:50 @ Loading in path: ./api/contrib/token/module.php
+
+[d] 20-09-22 08:09:50 @ Including file: ./api/contrib/token/module.php
+
+[d] 20-09-22 08:09:50 @ Module was booted too
+
+[d] 20-09-22 08:09:50 @ Function found
+
+[d] 20-09-22 08:09:50 @ Looking for path: gettoken
+
+[d] 20-09-22 08:09:50 @ Found path: gettoken
+
+[d] 20-09-22 08:09:50 @ Missing param: client_secret
+
+[d] 20-09-22 08:09:50 @ Using default
+
+[d] 20-09-22 08:09:50 @ Loading in path: ./api/contrib/token/mhToken.php
+
+[d] 20-09-22 08:09:50 @ Including file: ./api/contrib/token/mhToken.php
+
+[d] 20-09-22 08:09:50 @ Module was booted too
+
+[d] 20-09-22 08:09:50 @ Found function: token
+
+[d] 20-09-22 08:09:50 @ JSON: client_id=api-stag&client_secret=0&grant_type=password&username=cpf-01-0974-0757%40stag.comprobanteselectronicos.go.cr&password=%3FX%7D2%7C%5B%2451%3Ej%40k%2A40V%5BB%40
+
+[d] 20-09-22 08:09:50 @ Finished! Memory used: Mb0.460912<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-22 08:09:27 @ Module was booted too
+
+[i] 20-09-22 08:09:27 @ Cala was booted...
+
+[d] 20-09-22 08:09:27 @ Loading module: db
+
+[d] 20-09-22 08:09:27 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:27 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:27 @ Module was booted too
+
+[d] 20-09-22 08:09:27 @ Conneted to Db
+
+[d] 20-09-22 08:09:27 @ Loading module: users
+
+[d] 20-09-22 08:09:27 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:27 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:27 @ Module was booted too
+
+[d] 20-09-22 08:09:27 @ Loading user
+
+[d] 20-09-22 08:09:27 @ SELECT *
+    FROM users
+     WHERE userName = 'walner1borbon'
+
+[d] 20-09-22 08:09:27 @ Unable to locate user
+
+[d] 20-09-22 08:09:27 @ Loading module: crypto
+
+[d] 20-09-22 08:09:27 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:27 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:27 @ Module was booted too
+
+[d] 20-09-22 08:09:27 @ Loading in path: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:27 @ Including file: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:27 @ Module was booted too
+
+[d] 20-09-22 08:09:27 @ Function found
+
+[d] 20-09-22 08:09:27 @ Looking for path: consultarCom
+
+[d] 20-09-22 08:09:27 @ Found path: consultarCom
+
+[d] 20-09-22 08:09:27 @ Loading in path: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:27 @ Including file: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:27 @ Module was booted too
+
+[d] 20-09-22 08:09:27 @ Found function: consutar
+
+[d] 20-09-22 08:09:28 @ Finished! Memory used: Mb0.467224<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-22 08:09:35 @ Module was booted too
+
+[i] 20-09-22 08:09:35 @ Cala was booted...
+
+[d] 20-09-22 08:09:35 @ Loading module: db
+
+[d] 20-09-22 08:09:35 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:35 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:35 @ Module was booted too
+
+[d] 20-09-22 08:09:35 @ Conneted to Db
+
+[d] 20-09-22 08:09:35 @ Loading module: users
+
+[d] 20-09-22 08:09:35 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:35 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:35 @ Module was booted too
+
+[d] 20-09-22 08:09:35 @ Loading user
+
+[d] 20-09-22 08:09:35 @ SELECT *
+    FROM users
+     WHERE userName = 'walner1borbon'
+
+[d] 20-09-22 08:09:35 @ Unable to locate user
+
+[d] 20-09-22 08:09:35 @ Loading module: crypto
+
+[d] 20-09-22 08:09:35 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:35 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:35 @ Module was booted too
+
+[d] 20-09-22 08:09:35 @ Loading in path: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:35 @ Including file: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:35 @ Module was booted too
+
+[d] 20-09-22 08:09:35 @ Function found
+
+[d] 20-09-22 08:09:35 @ Looking for path: consultarCom
+
+[d] 20-09-22 08:09:35 @ Found path: consultarCom
+
+[d] 20-09-22 08:09:35 @ Loading in path: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:35 @ Including file: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:35 @ Module was booted too
+
+[d] 20-09-22 08:09:35 @ Found function: consutar
+
+[d] 20-09-22 08:09:36 @ Finished! Memory used: Mb0.467192<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-22 08:09:52 @ Module was booted too
+
+[i] 20-09-22 08:09:52 @ Cala was booted...
+
+[d] 20-09-22 08:09:52 @ Loading module: db
+
+[d] 20-09-22 08:09:52 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:52 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:52 @ Module was booted too
+
+[d] 20-09-22 08:09:52 @ Conneted to Db
+
+[d] 20-09-22 08:09:52 @ Loading module: users
+
+[d] 20-09-22 08:09:52 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:52 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:52 @ Module was booted too
+
+[d] 20-09-22 08:09:52 @ Loading user
+
+[d] 20-09-22 08:09:52 @ SELECT *
+    FROM users
+     WHERE userName = 'zotaApp'
+
+[d] 20-09-22 08:09:52 @ Loading module: crypto
+
+[d] 20-09-22 08:09:52 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:52 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:52 @ Module was booted too
+
+[d] 20-09-22 08:09:52 @ Loading in path: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:52 @ Including file: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:52 @ Module was booted too
+
+[d] 20-09-22 08:09:52 @ Function found
+
+[d] 20-09-22 08:09:52 @ Looking for path: consultarCom
+
+[d] 20-09-22 08:09:52 @ Found path: consultarCom
+
+[d] 20-09-22 08:09:52 @ Loading in path: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:52 @ Including file: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:52 @ Module was booted too
+
+[d] 20-09-22 08:09:52 @ Found function: consutar
+
+[d] 20-09-22 08:09:53 @ UPDATE sessions SET lastAccess = '1600826933' WHERE sessionKey = 'c042T05TYW5SQnZRK21TelJzbUlvQT09OjokyA+T9pCakjn3S/0JHRMm'
+
+[d] 20-09-22 08:09:53 @ UPDATE users SET lastAccess = '1600826933' WHERE idUser = '1'
+
+[d] 20-09-22 08:09:53 @ Finished! Memory used: Mb0.469072<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-22 08:09:07 @ Module was booted too
+
+[i] 20-09-22 08:09:07 @ Cala was booted...
+
+[d] 20-09-22 08:09:07 @ Loading module: db
+
+[d] 20-09-22 08:09:07 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:07 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:07 @ Module was booted too
+
+[d] 20-09-22 08:09:07 @ Conneted to Db
+
+[d] 20-09-22 08:09:07 @ Loading module: users
+
+[d] 20-09-22 08:09:07 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:07 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:07 @ Module was booted too
+
+[d] 20-09-22 08:09:07 @ Loading user
+
+[d] 20-09-22 08:09:07 @ SELECT *
+    FROM users
+     WHERE userName = 'zotaApp'
+
+[d] 20-09-22 08:09:07 @ Loading module: crypto
+
+[d] 20-09-22 08:09:07 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:07 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:07 @ Module was booted too
+
+[d] 20-09-22 08:09:07 @ Loading in path: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:07 @ Including file: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:07 @ Module was booted too
+
+[d] 20-09-22 08:09:07 @ Function found
+
+[d] 20-09-22 08:09:07 @ Looking for path: consultarCom
+
+[d] 20-09-22 08:09:07 @ Found path: consultarCom
+
+[d] 20-09-22 08:09:07 @ Loading in path: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:07 @ Including file: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:07 @ Module was booted too
+
+[d] 20-09-22 08:09:07 @ Found function: consutar
+
+[d] 20-09-22 08:09:07 @ UPDATE sessions SET lastAccess = '1600826947' WHERE sessionKey = 'c042T05TYW5SQnZRK21TelJzbUlvQT09OjokyA+T9pCakjn3S/0JHRMm'
+
+[d] 20-09-22 08:09:07 @ UPDATE users SET lastAccess = '1600826947' WHERE idUser = '1'
+
+[d] 20-09-22 08:09:07 @ Finished! Memory used: Mb0.469072<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-22 08:09:18 @ Module was booted too
+
+[i] 20-09-22 08:09:18 @ Cala was booted...
+
+[d] 20-09-22 08:09:18 @ Loading module: db
+
+[d] 20-09-22 08:09:18 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:18 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:18 @ Module was booted too
+
+[d] 20-09-22 08:09:18 @ Conneted to Db
+
+[d] 20-09-22 08:09:18 @ Loading module: users
+
+[d] 20-09-22 08:09:18 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:18 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:18 @ Module was booted too
+
+[d] 20-09-22 08:09:18 @ Loading user
+
+[d] 20-09-22 08:09:18 @ SELECT *
+    FROM users
+     WHERE userName = 'zotaApp'
+
+[d] 20-09-22 08:09:18 @ Loading module: crypto
+
+[d] 20-09-22 08:09:18 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:18 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:18 @ Module was booted too
+
+[d] 20-09-22 08:09:18 @ Loading in path: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:18 @ Including file: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:18 @ Module was booted too
+
+[d] 20-09-22 08:09:18 @ Function found
+
+[d] 20-09-22 08:09:18 @ Looking for path: consultarCom
+
+[d] 20-09-22 08:09:18 @ Found path: consultarCom
+
+[d] 20-09-22 08:09:18 @ Loading in path: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:18 @ Including file: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:18 @ Module was booted too
+
+[d] 20-09-22 08:09:18 @ Found function: consutar
+
+[d] 20-09-22 08:09:18 @ UPDATE sessions SET lastAccess = '1600826958' WHERE sessionKey = 'c042T05TYW5SQnZRK21TelJzbUlvQT09OjokyA+T9pCakjn3S/0JHRMm'
+
+[d] 20-09-22 08:09:18 @ UPDATE users SET lastAccess = '1600826958' WHERE idUser = '1'
+
+[d] 20-09-22 08:09:18 @ Finished! Memory used: Mb0.469072<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-22 08:09:27 @ Module was booted too
+
+[i] 20-09-22 08:09:27 @ Cala was booted...
+
+[d] 20-09-22 08:09:27 @ Loading module: db
+
+[d] 20-09-22 08:09:27 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:27 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:27 @ Module was booted too
+
+[d] 20-09-22 08:09:27 @ Conneted to Db
+
+[d] 20-09-22 08:09:27 @ Loading module: users
+
+[d] 20-09-22 08:09:27 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:27 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:27 @ Module was booted too
+
+[d] 20-09-22 08:09:27 @ Loading user
+
+[d] 20-09-22 08:09:27 @ SELECT *
+    FROM users
+     WHERE userName = 'zotaApp'
+
+[d] 20-09-22 08:09:27 @ Loading module: crypto
+
+[d] 20-09-22 08:09:27 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:27 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:27 @ Module was booted too
+
+[d] 20-09-22 08:09:27 @ Loading in path: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:27 @ Including file: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:27 @ Module was booted too
+
+[d] 20-09-22 08:09:27 @ Function found
+
+[d] 20-09-22 08:09:27 @ Looking for path: consultarCom
+
+[d] 20-09-22 08:09:27 @ Found path: consultarCom
+
+[d] 20-09-22 08:09:27 @ Loading in path: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:27 @ Including file: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:27 @ Module was booted too
+
+[d] 20-09-22 08:09:27 @ Found function: consutar
+
+[d] 20-09-22 08:09:28 @ UPDATE sessions SET lastAccess = '1600826968' WHERE sessionKey = 'c042T05TYW5SQnZRK21TelJzbUlvQT09OjokyA+T9pCakjn3S/0JHRMm'
+
+[d] 20-09-22 08:09:28 @ UPDATE users SET lastAccess = '1600826968' WHERE idUser = '1'
+
+[d] 20-09-22 08:09:28 @ Finished! Memory used: Mb0.469072<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-22 08:09:38 @ Module was booted too
+
+[i] 20-09-22 08:09:38 @ Cala was booted...
+
+[d] 20-09-22 08:09:38 @ Loading module: db
+
+[d] 20-09-22 08:09:38 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:38 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:38 @ Module was booted too
+
+[d] 20-09-22 08:09:38 @ Conneted to Db
+
+[d] 20-09-22 08:09:38 @ Loading module: users
+
+[d] 20-09-22 08:09:38 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:38 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:38 @ Module was booted too
+
+[d] 20-09-22 08:09:38 @ Loading user
+
+[d] 20-09-22 08:09:38 @ SELECT *
+    FROM users
+     WHERE userName = 'zotaApp'
+
+[d] 20-09-22 08:09:38 @ Loading module: crypto
+
+[d] 20-09-22 08:09:38 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:38 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:38 @ Module was booted too
+
+[d] 20-09-22 08:09:38 @ Loading in path: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:38 @ Including file: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:38 @ Module was booted too
+
+[d] 20-09-22 08:09:38 @ Function found
+
+[d] 20-09-22 08:09:38 @ Looking for path: consultarCom
+
+[d] 20-09-22 08:09:38 @ Found path: consultarCom
+
+[d] 20-09-22 08:09:38 @ Loading in path: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:38 @ Including file: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:38 @ Module was booted too
+
+[d] 20-09-22 08:09:38 @ Found function: consutar
+
+[d] 20-09-22 08:09:38 @ UPDATE sessions SET lastAccess = '1600826978' WHERE sessionKey = 'c042T05TYW5SQnZRK21TelJzbUlvQT09OjokyA+T9pCakjn3S/0JHRMm'
+
+[d] 20-09-22 08:09:38 @ UPDATE users SET lastAccess = '1600826978' WHERE idUser = '1'
+
+[d] 20-09-22 08:09:38 @ Finished! Memory used: Mb0.469072<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-22 08:09:53 @ Module was booted too
+
+[i] 20-09-22 08:09:53 @ Cala was booted...
+
+[d] 20-09-22 08:09:53 @ Loading module: db
+
+[d] 20-09-22 08:09:53 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:53 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:53 @ Module was booted too
+
+[d] 20-09-22 08:09:53 @ Conneted to Db
+
+[d] 20-09-22 08:09:53 @ Loading module: users
+
+[d] 20-09-22 08:09:53 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:53 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:53 @ Module was booted too
+
+[d] 20-09-22 08:09:53 @ Loading user
+
+[d] 20-09-22 08:09:53 @ SELECT *
+    FROM users
+     WHERE userName = 'zotaApp'
+
+[d] 20-09-22 08:09:53 @ Loading module: crypto
+
+[d] 20-09-22 08:09:53 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:53 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:53 @ Module was booted too
+
+[d] 20-09-22 08:09:53 @ Loading in path: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:53 @ Including file: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:53 @ Module was booted too
+
+[d] 20-09-22 08:09:53 @ Function found
+
+[d] 20-09-22 08:09:53 @ Looking for path: consultarCom
+
+[d] 20-09-22 08:09:53 @ Found path: consultarCom
+
+[d] 20-09-22 08:09:53 @ Loading in path: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:53 @ Including file: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:53 @ Module was booted too
+
+[d] 20-09-22 08:09:53 @ Found function: consutar
+
+[d] 20-09-22 08:09:57 @ UPDATE sessions SET lastAccess = '1600826997' WHERE sessionKey = 'c042T05TYW5SQnZRK21TelJzbUlvQT09OjokyA+T9pCakjn3S/0JHRMm'
+
+[d] 20-09-22 08:09:57 @ UPDATE users SET lastAccess = '1600826997' WHERE idUser = '1'
+
+[d] 20-09-22 08:09:57 @ Finished! Memory used: Mb0.469104<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+[d] 20-09-22 08:09:03 @ Module was booted too
+
+[i] 20-09-22 08:09:03 @ Cala was booted...
+
+[d] 20-09-22 08:09:03 @ Loading module: db
+
+[d] 20-09-22 08:09:03 @ Loading in path: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:03 @ Including file: ./api/modules/db/module.php
+
+[d] 20-09-22 08:09:03 @ Module was booted too
+
+[d] 20-09-22 08:09:03 @ Conneted to Db
+
+[d] 20-09-22 08:09:03 @ Loading module: users
+
+[d] 20-09-22 08:09:03 @ Loading in path: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:03 @ Including file: ./api/modules/users/module.php
+
+[d] 20-09-22 08:09:03 @ Module was booted too
+
+[d] 20-09-22 08:09:03 @ Loading user
+
+[d] 20-09-22 08:09:03 @ SELECT *
+    FROM users
+     WHERE userName = 'zotaApp'
+
+[d] 20-09-22 08:09:03 @ Loading module: crypto
+
+[d] 20-09-22 08:09:03 @ Loading in path: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:03 @ Including file: ./api/modules/crypto/module.php
+
+[d] 20-09-22 08:09:03 @ Module was booted too
+
+[d] 20-09-22 08:09:03 @ Loading in path: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:03 @ Including file: ./api/contrib/consultar/module.php
+
+[d] 20-09-22 08:09:03 @ Module was booted too
+
+[d] 20-09-22 08:09:03 @ Function found
+
+[d] 20-09-22 08:09:03 @ Looking for path: consultarCom
+
+[d] 20-09-22 08:09:03 @ Found path: consultarCom
+
+[d] 20-09-22 08:09:03 @ Loading in path: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:03 @ Including file: ./api/contrib/consultar/consultar.php
+
+[d] 20-09-22 08:09:03 @ Module was booted too
+
+[d] 20-09-22 08:09:03 @ Found function: consutar
+
+[d] 20-09-22 08:09:03 @ UPDATE sessions SET lastAccess = '1600827003' WHERE sessionKey = 'c042T05TYW5SQnZRK21TelJzbUlvQT09OjokyA+T9pCakjn3S/0JHRMm'
+
+[d] 20-09-22 08:09:03 @ UPDATE users SET lastAccess = '1600827003' WHERE idUser = '1'
+
+[d] 20-09-22 08:09:03 @ Finished! Memory used: Mb0.469072<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
